@@ -91,6 +91,21 @@ picture img{
   margin: 10px;
 }
 
+footer{
+  background-color: #88260b;
+  font-family: var(--fonte-sec);
+  color: white;
+  font-weight: bolder;
+  font-size: 18px;
+  padding: 10px;
+  text-align: center;
+}
+ .ista{
+  text-decoration: none;
+  background-color: white;
+  color: #88260b;
+}
+
 
 
 
