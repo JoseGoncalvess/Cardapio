@@ -100,10 +100,14 @@ footer{
   padding: 10px;
   text-align: center;
 }
- .ista{
-  text-decoration: none;
-  background-color: white;
-  color: #88260b;
+
+.insta{
+text-decoration: none;
+color: white;
+font-size: 20px;
+border-radius: 5px;
+padding: 5px;
+background-color: var(--laranja);
 }
 
 
